@@ -126,7 +126,7 @@ class WriteLog(wx.TextCtrl):
 
     def write_textctrl_db(self, text, enable=True, font=wx.NORMAL_FONT, colour=wx.BLACK):
         """
-        写日志到TextCtrl和数据库中
+        写日志到TextCtrl和数据库中122
         :param text:
         :param enable:
         :param font:
