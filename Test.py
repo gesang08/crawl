@@ -29,5 +29,5 @@ if __name__ == '__main__':
     for t in thread_list:
         t.join()
 
-    print('主线程结束！', threading.current_thread().name)
+    print('主线程结束！！！', threading.current_thread().name)
     print('一共用时：', time.time()-start_time)
